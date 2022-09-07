@@ -1,6 +1,8 @@
 
 body{
   background-color: white;
+  padding: 5px;
+  height: 100vh;
 }
 .App {
   text-align: center;
